@@ -89,7 +89,7 @@ For local setup (alternative):
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/theater-analytics.git
+   git clone https://github.com/caleboki/theater-analytics.git
    cd theater-analytics
    ```
 
