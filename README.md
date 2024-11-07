@@ -73,9 +73,9 @@ This implementation extends the core functionality by incorporating Docker conta
 
 For Docker setup (recommended):
 - Docker Desktop installed on your system
-  - [Docker Desktop for Windows](https://docs.docker.com/desktop/install/windows/)
-  - [Docker Desktop for macOS](https://docs.docker.com/desktop/install/mac/)
-  - [Docker Desktop for Linux](https://docs.docker.com/desktop/install/linux/)
+  - [Docker Desktop for Windows](https://docs.docker.com/desktop/setup/install/windows-install/)
+  - [Docker Desktop for macOS](https://docs.docker.com/desktop/setup/install/mac-install/)
+  - [Docker Desktop for Linux](https://docs.docker.com/desktop/setup/install/linux/)
 
 For local setup (alternative):
 - Node.js (version 14 or higher)
