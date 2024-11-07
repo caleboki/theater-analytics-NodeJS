@@ -69,10 +69,6 @@ This implementation extends the core functionality by incorporating Docker conta
 
 4. **Isolation**: Provides a clean, isolated environment for the application, making it easier to test and deploy.
 
-# Movie Theater Analytics - JavaScript/Node.js Implementation
-
-[previous sections remain the same...]
-
 ## Prerequisites
 
 For Docker setup (recommended):
